@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ananya Nagpal!
 
 🎓 Electrical Engineering student at **IIT Jodhpur**  
-💻 Full Stack Developer | AI Enthusiast | Serverless Explorer
+💻 Full Stack Developer | AI Enthusiast | Problem Solver
 
 ---
 
