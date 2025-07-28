@@ -26,14 +26,7 @@ I love:
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ananya0104&show_icons=true&theme=radical" alt="Ananya's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya0104&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-----
 
 ## 🪄 GitHub Summary Cards
 
