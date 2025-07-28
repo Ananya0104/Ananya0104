@@ -20,11 +20,6 @@ I love:
 
 ---
 
-## 🖥️ Portfolio
-
-🔗 [ananyanagpal.vercel.app](https://ananyanagpal.vercel.app)
-
----
 
 ## 💻 Coding Profiles
 
