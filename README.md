@@ -48,7 +48,6 @@ I love:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ananya0104&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ananya0104&theme=tokyonight" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ananya0104&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ananya0104&theme=tokyonight&utcOffset=+5.5" />
 </p>
 
