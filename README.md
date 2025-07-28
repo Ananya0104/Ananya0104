@@ -33,8 +33,7 @@ I love:
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya0104&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
+----
 
 ## 🪄 GitHub Summary Cards
 
