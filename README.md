@@ -57,12 +57,6 @@ I love:
 
 ---
 
-## 🔥 Contribution Streaks
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ananya0104&theme=tokyonight&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakNum=ff69b4&sideLabels=ff69b4" alt="GitHub Streak" />
-</p>
-
 
 ---
 
