@@ -49,6 +49,16 @@ I love:
 
 ---
 
+## 🛠 Tech I Love to Use...
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,aws,react,nextjs,dynamodb,js,ts,nodejs,html,css,figma,python&theme=light" alt="Tech stack" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=I+love+building+with+Golang,+React+%26+AWS+Lambda;Designing+clean+UIs+with+Next.js,+Figma+%26+CSS;Solving+DSA+with+C%2B%2B+and+Python;Exploring+AI+%2F+RAG+%2F+LLMs;Debugging+%26+automating+everything!" />
+</p>
+
+
 ## 🌸 GitHub Activity Graph
 
 <p align="center">
