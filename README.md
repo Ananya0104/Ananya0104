@@ -20,12 +20,6 @@ I love:
 
 ---
 
-## 💻 Coding Profiles
-
-- 🧩 [codolio.com/profile/noni05](https://codolio.com/profile/noni05)
-
----
-
 ## 📊 Verified GitHub Stats (2025)
 
 <p align="center">
